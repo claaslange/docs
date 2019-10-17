@@ -20,7 +20,7 @@ This directory contains various Dapr concepts. The goal of these documents is to
 
   Distirbuted tracing collects and aggregates trace events by transactions. It allows you to trace the entire call chain across multiple services. Dapr integrates with [OpenTelemetry](https://opentelemetry.io/) for distributed tracing and metrics collection. 
 
-* [**Pub-sub**](./publish-subscribe-messaging/pub-sub-messaging.md)
+* [**Pub-sub**](./publish-subscribe-messaging/Readme.md)
   
   Pub-sub is a loosely coupled messaging pattern where senders (or publishers) publishes messages to a topic, to which subscribers subscribe. Dapr natively supports the pub-sub pattern.
 
